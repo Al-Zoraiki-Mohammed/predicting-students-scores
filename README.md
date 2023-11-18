@@ -1,1 +1,2 @@
 # Predicting_Students_Scores
+This is a simple project for bigginers to predict the percentage/score of a student based on the number of study hours using supervised machine learning. This is a simple linear regressin task as it involves just 2 variables. The to variables are the number of study hours( input data)  and the ground truth scores ( the target) for some students as it appears on the dataset file.   
